@@ -1015,11 +1015,11 @@ footer{
 
 @media (max-width: 500px){
   /* menu */
-  .fixMarginAdd{
+  .milk-cacao{
     margin-top: -3rem;
   }
 
-  .fixMarginAdd::after{
+  .milk-cacao::after{
     top: 1.75rem;
   }
 
